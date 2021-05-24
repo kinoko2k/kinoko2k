@@ -9,12 +9,16 @@
 ### ・[きのこBOT-Project]()
 ### ・[Call56NetWorkSecound](https://github.com/Call56NetWork2-Plugin)(OpenSource)
 
+# 書ける言語
+#### ・Python
+#### ・JavaScript
+#### ・Java
+#### ・HTML
 
 # Account
-## Discord
-####    ○きのこ#3227
-### ・Twitter
-####    ○[@kinoko1216](https://twitter.com/kinoko1216)
+### Discord(きのこ#3227)
+
+### Twitter[@kinoko1216](https://twitter.com/kinoko1216)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k)](https://github.com/kinoko2k/github-readme-stats)
 

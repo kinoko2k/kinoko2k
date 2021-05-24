@@ -1,4 +1,4 @@
-### Hi there 👋
+x### Hi there 👋
 
 <!--
 **kinoko2k/kinoko2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k)](https://github.com/kinoko2k/github-readme-stats)

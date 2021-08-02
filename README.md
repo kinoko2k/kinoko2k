@@ -4,8 +4,10 @@
 # 所属グループ
 Kinoko_Team
 
+https://discord.gg/nXeJJjtmvN
+
 RPGゲームとか作成してるチーム
-[![](<iframe src="https://discord.com/widget?id=863701378290941962&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)
+
 # Account
 ### Discord(きのこ#3227)
 

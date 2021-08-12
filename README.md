@@ -9,4 +9,4 @@ Escape Group
 Call56Network2
 
 # Account
-### Twitter[@kinoko1216](https://twitter.com/kinoko1216)
+### Twitter:[@kinoko1216](https://twitter.com/kinoko1216)

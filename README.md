@@ -4,11 +4,9 @@
 # 所属グループ
 Kinoko_Team
 
-https://discord.gg/nXeJJjtmvN
+Escape Group
 
-RPGゲームとか作成してるチーム
+Call56Network2
 
 # Account
-### Discord(きのこ#3227)
-
 ### Twitter[@kinoko1216](https://twitter.com/kinoko1216)

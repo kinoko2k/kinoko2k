@@ -1,3 +1,7 @@
+<p class="profile-img" align="center">
+ <img src="kinoko-header2.jpeg" width=800>
+</p>
+
 基本的にゲームやMinecraftPluginやなにかのToolを作成している人
 
 DiscordBOTの中身なら一部作れますよ=>TwitterのDMへGO!

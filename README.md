@@ -16,7 +16,7 @@
 - HTML
 - CSS
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,java,python,html,css,json,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,java,python,html,css,json,markdown)](https://github.com/kinoko2k)
 
 
 # 所属Group

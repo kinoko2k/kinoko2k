@@ -8,6 +8,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k)](https://github.com/kinoko2k/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k)](https://github.com/kinoko2k/github-readme-stats)　
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kinoko2k" alt="kinoko_2k" />
+
 
 # 書ける言語(?)
 - Python

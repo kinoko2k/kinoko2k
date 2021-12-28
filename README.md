@@ -20,13 +20,42 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,java,python,html,css,json,markdown)](https://github.com/kinoko2k)
 
 
-# 所属Group
+# 履歴
+---現在の仕事---
 
-@kinoko-team
+Kinoko-Team(PC):受験のため活動停止 - > 受験が終わり次第終了
 
-@esc-org
+VCborn(PC):受験のため活動停止 - > 受験が終わり次第復帰するかもしれない
 
-@vcborn
+EscGroup(PC):受験のため活動停止 - > 謎
+
+RiyayaNet(PC):受験のため活動停止 - > 受験が終わり次第復帰
+
+---過去の仕事---
+
+Fuwacanon(Minecraft):受験のためと鯖主が忙しいために仕事配分がなってないことから - > 2021/11~12
+
+Hatosaba(Minecraft):受験のためと仕事内容が謎 - > 2020/9~2020/12 2021/11~12
+
+seichi915network(Minecraft):アカウント削除のため - > 2020/??~2021/08
+
+Call56NetWork1(Minecraft):鯖主失踪 - > 2020/05~2021/01
+
+Call56NetWork2(Minecraft):鯖主独裁 - > 2021/9~10
+
+RiyayaNetWork(Minecraft):受験のため活動停止 - > 2021/12
+
+LloydSystem!(DiscordBOT):アカウント削除のため - > 2020
+
+karaageBot(DiscordBOT):アカウント削除のため - > 2020
+
+SuperGlobalChat(DiscordBOT):アカウント削除のため - > 2020
+
+NatureBot(DiscordBOT):開発者不足 - > 2021
+
+KinokoBot(DiscordBOT):アカウント削除のため -> 2020/09~2021/08
+
+
 
 # Account
 ### Twitter:[@kinoko1216](https://twitter.com/kinoko1216)

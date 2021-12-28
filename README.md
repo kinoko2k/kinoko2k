@@ -35,7 +35,7 @@ RiyayaNet(PC):受験のため活動停止 - > 受験が終わり次第復帰
 
 Fuwacanon(Minecraft):受験のためと鯖主が忙しいために仕事配分がなってないことから - > 2021/11~12
 
-Hatosaba(Minecraft):受験のためと仕事内容が謎 - > 2020/9~2020/12 2021/11~12
+Hatosaba(Minecraft):受験のためと仕事内容が謎 - > 2020/9~12 2021/11~12
 
 seichi915network(Minecraft):アカウント削除のため - > 2020/??~2021/08
 

@@ -55,6 +55,7 @@ NatureBot(DiscordBOT):開発者不足 - > 2021
 
 KinokoBot(DiscordBOT):アカウント削除のため -> 2020/09~2021/08
 
+Shimasaba(Minecraft):サイト寄付
 
 
 # Account

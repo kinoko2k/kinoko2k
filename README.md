@@ -23,13 +23,9 @@
 # 履歴
 ---現在の仕事---
 
-Kinoko-Team(PC):受験のため活動停止 - > 受験が終わり次第終了
+EscGroup(PC):謎
 
-VCborn(PC):受験のため活動停止 - > 受験が終わり次第復帰するかもしれない
-
-EscGroup(PC):受験のため活動停止 - > 謎
-
-RiyayaNet(PC):受験のため活動停止 - > 受験が終わり次第復帰
+RiyayaNet(PC)
 
 ---過去の仕事---
 
@@ -54,6 +50,10 @@ SuperGlobalChat(DiscordBOT):アカウント削除のため - > 2020
 NatureBot(DiscordBOT):開発者不足 - > 2021
 
 KinokoBot(DiscordBOT):アカウント削除のため -> 2020/09~2021/08
+
+Kinoko-Team(PC):受験のため活動停止
+
+VCborn(PC):受験のため活動停止 
 
 Shimasaba(Minecraft):サイト寄付
 

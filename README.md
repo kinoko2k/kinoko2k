@@ -27,6 +27,8 @@ EscGroup(PC):謎
 
 RiyayaNet(PC)
 
+MesiOkaServer(PC)
+
 ---過去の仕事---
 
 Fuwacanon(Minecraft):受験のためと鯖主が忙しいために仕事配分がなってないことから - > 2021/11~12

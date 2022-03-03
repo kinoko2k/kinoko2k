@@ -23,11 +23,13 @@
 # 履歴
 ---現在の仕事---
 
-EscGroup(PC):謎
+EscGroup(PC)
 
-RiyayaNet(PC)
+MesiOkaServer(Minecraft)
 
-MesiOkaServer(PC)
+KiyosOS(PC:OS)
+
+Minecraft-Distribution-World-Create-Group(Minecraft)
 
 ---過去の仕事---
 
@@ -42,6 +44,8 @@ Call56NetWork1(Minecraft):鯖主失踪 - > 2020/05~2021/01
 Call56NetWork2(Minecraft):鯖主独裁 - > 2021/9~10
 
 RiyayaNetWork(Minecraft):受験のため活動停止 - > 2021/12
+
+RiyayaNet(GameProgramming):主が不在のため活動停止 - > 2021/12~2022/02
 
 LloydSystem!(DiscordBOT):アカウント削除のため - > 2020
 

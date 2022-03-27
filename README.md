@@ -3,7 +3,9 @@
 </p>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=kinoko2k&data=followers,repositories,stars,commits" width="600">
-
+<a href="https://github.com/lowlighter/metrics" >
+  <img align="right" width="40%" src="https://raw.githubusercontent.com/kinoko2k/kinoko2k/master/github-metrics.svg" />
+</a>
 基本的にゲームやMinecraftPluginやなにかのToolを作成している人
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

@@ -15,13 +15,11 @@
 # 履歴
 ---現在の仕事---
 
-EscGroup(PC)
+TakenokoNetWork(Minecraft)
 
 MesiOkaServer(Minecraft)
 
 KiyosOS(PC:OS)
-
-Minecraft-Distribution-World-Create-Group(Minecraft)
 
 ---過去の仕事---
 
@@ -53,7 +51,11 @@ Kinoko-Team(PC):受験のため活動停止
 
 VCborn(PC):受験のため活動停止 
 
+EscGroup(PC):活動なし
+
 Shimasaba(Minecraft):サイト寄付
+
+Minecraft-Distribution-World-Create-Group(Minecraft):ワールド作成
 
 
 # Account

@@ -14,8 +14,6 @@
 # 履歴
 ---現在の仕事---
 
-TakenokoNetWork(Minecraft)
-
 MesiOkaServer(Minecraft)
 
 KiyosOS(PC:OS)
@@ -46,15 +44,17 @@ NatureBot(DiscordBOT):開発者不足 - > 2021
 
 KinokoBot(DiscordBOT):アカウント削除のため -> 2020/09~2021/08
 
-Kinoko-Team(PC):受験のため活動停止
+Kinoko-Team(PC):受験のため活動停止 -> 2020/04~2022/01
 
-VCborn(PC):受験のため活動停止 
+VCborn(PC):受験のため活動停止 -> 2021
 
-EscGroup(PC):活動なし
+EscGroup(PC):活動なし -> 2022
 
-Shimasaba(Minecraft):サイト寄付
+Shimasaba(Minecraft):サイト寄付 -> 2022/01
 
-Minecraft-Distribution-World-Create-Group(Minecraft):ワールド作成
+Minecraft-Distribution-World-Create-Group(Minecraft):ワールド作成 -> 2022
+
+TakenokoNetWork(Minecraft):鯖主が勝手な判断で削除したため -> 2022/03~07
 
 
 # Account

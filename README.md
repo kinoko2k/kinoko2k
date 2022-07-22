@@ -62,6 +62,6 @@ TakenokoNetWork(Minecraft):鯖主が勝手な判断で削除したため -> 2022
 
 <p align="left"> <a href="https://twitter.com/kinoko1216" target="blank"><img src="https://img.shields.io/twitter/follow/kinoko1216?logo=twitter&style=for-the-badge" alt="kinoko1216" /></a> </p>
 
-### Github:[kinoko2k](https://github.com/kinoko2k)
+### Discord:[Kinoko_2K](https://github.com/kinoko2k)
 
 <img src="https://discord.c99.nl/widget/theme-2/925245386568896564.png">

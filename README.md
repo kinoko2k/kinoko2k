@@ -54,7 +54,7 @@ Shimasaba(Minecraft):サイト寄付 -> 2022/01
 
 Minecraft-Distribution-World-Create-Group(Minecraft):ワールド作成 -> 2022
 
-TakenokoNetWork(Minecraft):鯖主が勝手な判断で削除したため -> 2022/03~07
+TakenokoNetWork(Minecraft):鯖主()が勝手な判断で削除したため -> 2022/03~07
 
 # Account
 ### Twitter:[@kinoko1216](https://twitter.com/kinoko1216)

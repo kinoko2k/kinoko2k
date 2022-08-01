@@ -2,8 +2,10 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
-
-# Profile
+### きのこ(Kinoko_2K)(@kinoko1216)
+ただの高校生のでべろっぱー。
+Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成したりする人。
+マイクラ運営数は現在**4個**。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k&layout=compact&langs_count=10)

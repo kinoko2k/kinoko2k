@@ -9,6 +9,8 @@ Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成�
 
 マイクラ運営数は現在**4個**。
 
+最近はDiscordのNitroが欲しくなった人。
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k&layout=compact&langs_count=10)
 

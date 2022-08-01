@@ -16,10 +16,17 @@ Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成�
 # Project
 ---現在の仕事---
 
-MesiOkaServer(Minecraft)
+MesiOkaServer
+- ---
+Minecraft : 6か月
 
-KiyosOS(PC:OS)
+RezxisNetWork
+- ---
+Minecraft : 2週間
 
+FancyLifeProject
+- ---
+Minecraft : 2週間
 
 # AccountList
 サイト:<https://kinoko2k.github.io/>

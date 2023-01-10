@@ -5,7 +5,7 @@
 ### きのこ(Kinoko_2K)(@kinoko1216)
 ただの高校生のでべろっぱー。
 
-Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成したりする人。
+Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成したりする人。持病持ち。
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -18,7 +18,7 @@ Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成�
 KinokoServer
  
 # AccountList
-サイト:<https://kinoko2k.github.io/>
+サイト:<http://kinoko.ddns.net>
 
 Twitter:<https://twitter.com/kinoko1216>
 

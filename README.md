@@ -22,7 +22,6 @@ Discord.js@v12でDiscordBotを開発したり、JavaでMinecraftPluginを作成�
 KinokoServer
  
 # AccountList
-サイト:<http://kinoko.ddns.net>
 
 <p align="left">
 <a href="https://twitter.com/kinoko1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinoko1216" height="30" width="40" /></a>

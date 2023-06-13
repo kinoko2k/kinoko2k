@@ -1538,14 +1538,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">kinoko2k/BedWars_ja_docs</span>
+                                        <span class="repo">kinoko2k/DailyCommits</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d1e14a9</div>
-                                        <div class="message">Docs: Update</div>
+                                        <div class="sha">#3331339</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1564,8 +1564,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61c8a35</div>
-                                        <div class="message">Docs: Warning</div>
+                                        <div class="sha">#99d091e</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1578,14 +1578,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">kinoko2k/BedWars_ja_docs</span>
+                                        <span class="repo">kinoko2k/DailyCommits</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0dee423</div>
-                                        <div class="message">Docs: index.md</div>
+                                        <div class="sha">#2243f5f</div>
+                                        <div class="message">Update commit_counter.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1598,14 +1598,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">kinoko2k/BedWars_ja_docs</span>
+                                        <span class="repo">kinoko2k/DailyCommits</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9e4983</div>
-                                        <div class="message">home name</div>
+                                        <div class="sha">#bd49f46</div>
+                                        <div class="message">Update commit_counter.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1618,14 +1618,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">kinoko2k/BedWars_ja_docs</span>
+                                        <span class="repo">kinoko2k/DailyCommits</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce72b72</div>
-                                        <div class="message">test</div>
+                                        <div class="sha">#21b261e</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1824,7 +1824,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2023, 00:04:35 (timezone Asia/Tokyo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jun 2023, 01:07:27 (timezone Asia/Tokyo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

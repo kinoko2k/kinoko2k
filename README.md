@@ -26,8 +26,11 @@ MinecraftJEサーバー「きのこサーバー」というサーバーを動か
 
 
 # Project
-KinokoServer
- 
+- KinokoServer (Discord & MinecraftServer) - Owner
+- kinokonoyama (Hypixel Guild) - Owner
+- mcpl (Discord) - Owner
+- KireaServer (Discord) - Administrator
+- mesioka server (Discord) - Administrator
 # AccountList
 
 <p align="left">

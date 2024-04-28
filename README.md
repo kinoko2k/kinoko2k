@@ -2,46 +2,58 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
-### きのこ(Kinoko_2K)(@kinoko1216)
-ただの高校生のでべろっぱー。
+## ✨自己紹介 
+- 名前
+    - Kinoko_2K (@kinoko1216)
+- 趣味
+    - ピアノ, 読書
 
-MinecraftJEサーバー「きのこサーバー」というサーバーを動かしています。鯖貸し出しは行っておりません。
+ただの高校生になりたかった人。<br>
+[**no+e**](https://note.com/kinoko1216)でDiscordやMinecraftの記事を書き続けてる人です。<br>
+開発物と言えるようなものはありませんので、どちらかというと開発物にドキュメント記述のほうができます。<br>
+書けるものと言えば、Pythonと日本語です。<br>
 
-いつもは、Docsの記述を行ったり、サイトやPlugin等の説明やWikiなどの記述をしています。MarkDownは書けます。
+## 📝主なプロジェクト
+- [no+e@kinoko1216](https://note.com/kinoko1216)
+    - [Discordの新機能の「投票」が追加された！ - kinoko2k](https://note.com/kinoko1216/n/n78b37bd3b50d)
+    - [[Discord]Clipをうまく利用していい動画を残そう！ - kinoko2k](https://note.com/kinoko1216/n/nb1da602f0969)
+- 翻訳
+    - [BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-20-4.63714/update?update=493428)
+    - [ChatEX](https://github.com/TheJeterLP/ChatEx/pull/146)
+- ドキュメント記述
+    - [Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)
+- くそ
+    - [kinoko2k/kinoko2k.github.io](https://github.com/kinoko2k/kinoko2k.github.io)
+    - [kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
 
-文章を書くのが好きな人。
- 
+## ✅所属鯖・グループ
+・[KinokoNetWork](https://kinokoserver.github.io/documents/) (MC,Disc)<br>
+・[kinokonoyama](https://plancke.io/hypixel/guild/name/kinokonoyama) (MC,Disc)<br>
+・[Minecraft鯖運営-処罰共有場-mcpl](https://twitter.com/kinoko1216/status/1783881445230141830) (Discord)<br>
+・[ArukaNetWork](https://disboard.org/ja/server/1168232472287395880) (MC)<br>
+・mesiokaServer (MC,Disc)<br>
+・[KireaServer](https://minecraft-mcworld.com/40113/) (Discord)<br>
+
+## ⚙️技術
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-2572b6.svg?logo=css3&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+===
+![Python](https://img.shields.io/badge/Python-ffde73.svg?logo=python&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&style=for-the-badge)
+## ステータス
 ![Metrics](/github-metrics.svg)
-<!-- ![Metrics](https://metrics.lecoq.io/kinoko2k?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjava%2Cjavascript%2Cmarkdown&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.featured=KinokoServer%2Fdocuments%2CJankenWeb%2CPunishment-Program%2CSentenceGenerator&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTokyo) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&show_icons=true&theme=gruvbox)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k&layout=compact&langs_count=10)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinoko2k&" alt="kinoko2k" /></p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-# Language
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-# Project
-- KinokoServer (Discord & MinecraftServer) - Owner
-- kinokonoyama (Hypixel Guild) - Owner
-- mcpl (Discord) - Owner
-- KireaServer (Discord) - Administrator
-- mesioka server (Discord) - Administrator
-# AccountList
-
-<p align="left">
-<a href="https://twitter.com/kinoko1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinoko1216" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/VdzXx892Zq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VdzXx892Zq" height="30" width="40" /></a>
-</p>
+# 🍨アカウント
+[![Twitter@kinoko1216](https://img.shields.io/badge/Twitter-fff.svg?logo=twitter&style=for-the-badge)](https://twitter.com/kinoko1216) [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k)
 
 <img src="https://discord.c99.nl/widget/theme-2/925245386568896564.png">
 
-Github:<https://github.com/kinoko2k>
-
-MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)
+・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br>
+・[**note.com@kinoko1216**](https://note.com/kinoko1216)<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)
+
+<!-- ![Metrics](https://metrics.lecoq.io/kinoko2k?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjava%2Cjavascript%2Cmarkdown&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.featured=KinokoServer%2Fdocuments%2CJankenWeb%2CPunishment-Program%2CSentenceGenerator&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTokyo) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&show_icons=true&theme=gruvbox) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1581" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1900" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1531,6 +1531,363 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 62 commits in
+                                        <span class="repo">kinoko2k/Discord-SimpleMusicBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b510ba7</div>
+                                        <div class="message">Update: bump @sinclair/typebox from 0.32.15 to 0.32.16 (#2275)
+
+Bumps [@sinclair/typebox](https://github.com/sinclairzx81/typebox) from 0.32.15 to 0.32.16.
+- [Commits](https://github.com/sinclairzx81/typebox/compare/0.32.15...0.32.16)
+
+---
+updated-dependencies:
+- dependency-name: "@sinclair/typebox"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62d52d5</div>
+                                        <div class="message">Improve: enable strict null checks (#2277)
+
+* update config
+
+* wip
+
+* wip
+
+* wip
+
+* wip
+
+* lint
+
+* enable check
+
+* config
+
+* root
+
+* config
+
+* lint
+
+* assert
+
+* asterisk?
+
+* recursive import
+
+* fix vscode tasks
+
+* workaround
+
+* remove .replit [skip ci]
+
+* w</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfd002c</div>
+                                        <div class="message">Update: bump the oceanic group with 2 updates (#2274)
+
+Bumps the oceanic group with 2 updates: [@mtripg6666tdr/oceanic-command-resolver](https://github.com/mtripg6666tdr/oceanic-command-resolver) and [oceanic.js](https://github.com/OceanicJS/Oceanic).
+
+
+Updates `@mtripg6666tdr/oceanic-command-resolver` from 1.4.0 to 1.4.1
+- [Release notes](https://github.com/mtripg6666tdr/oceanic-command-resolver/releases)
+- [Commits](https://github.com/mtripg6666tdr/oceanic-command-resolver/compare/v1.4.0...v1.4.1)
+
+Updates `oceanic.js` from 1.9.0 to 1.10.0
+- [Release notes](https://github.com/OceanicJS/Oceanic/releases)
+- [Commits](https://github.com/OceanicJS/Oceanic/compare/v1.9.0...v1.10.0)
+
+---
+updated-dependencies:
+- dependency-name: "@mtripg6666tdr/oceanic-command-resolver"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: oceanic
+- dependency-name: oceanic.js
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: oceanic
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e1219c</div>
+                                        <div class="message">Update: bump typescript from 5.3.3 to 5.4.2 (#2266)
+
+* Update: bump typescript from 5.3.3 to 5.4.2
+
+Bumps [typescript](https://github.com/Microsoft/TypeScript) from 5.3.3 to 5.4.2.
+- [Release notes](https://github.com/Microsoft/TypeScript/releases)
+- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
+- [Commits](https://github.com/Microsoft/TypeScript/compare/v5.3.3...v5.4.2)
+
+---
+updated-dependencies:
+- dependency-name: typescript
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+* ts expect error
+
+* workaround
+
+* workaround
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: うさみょん/myon2019 &lt;56076195+mtripg6666tdr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8670c7b</div>
+                                        <div class="message">Chore(test.yml): change conclusion action (#2273)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1b243f</div>
+                                        <div class="message">Update: bump mongodb from 6.3.0 to 6.5.0 (#2272)
+
+Bumps [mongodb](https://github.com/mongodb/node-mongodb-native) from 6.3.0 to 6.5.0.
+- [Release notes](https://github.com/mongodb/node-mongodb-native/releases)
+- [Changelog](https://github.com/mongodb/node-mongodb-native/blob/main/HISTORY.md)
+- [Commits](https://github.com/mongodb/node-mongodb-native/compare/v6.3.0...v6.5.0)
+
+---
+updated-dependencies:
+- dependency-name: mongodb
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdf96a7</div>
+                                        <div class="message">Chore(dependabot.yml): ignore major updates of undici (#2270)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97b6649</div>
+                                        <div class="message">Update: bump @types/node from 20.11.24 to 20.11.29 (#2268)
+
+Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 20.11.24 to 20.11.29.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbb4c65</div>
+                                        <div class="message">Update(docs): bump @types/react from 18.2.66 to 18.2.67 in /docs (#2267)
+
+Bumps [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) from 18.2.66 to 18.2.67.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+---
+updated-dependencies:
+- dependency-name: "@types/react"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97ee5a1</div>
+                                        <div class="message">Update: bump @sinclair/typebox from 0.32.14 to 0.32.15 (#2263)
+
+Bumps [@sinclair/typebox](https://github.com/sinclairzx81/typebox) from 0.32.14 to 0.32.15.
+- [Commits](https://github.com/sinclairzx81/typebox/compare/0.32.14...0.32.15)
+
+---
+updated-dependencies:
+- dependency-name: "@sinclair/typebox"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e3ae68</div>
+                                        <div class="message">Fix: print undefined on exit (#2262)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f1e599</div>
+                                        <div class="message">Feat: support node v16 by polyfill (#2261)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fddf797</div>
+                                        <div class="message">Feat: use distube/ytpl if available (#2260)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#308dd75</div>
+                                        <div class="message">Chore(deps): bump follow-redirects from 1.15.4 to 1.15.6 in /docs (#2259)
+
+Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.15.4 to 1.15.6.
+- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.15.4...v1.15.6)
+
+---
+updated-dependencies:
+- dependency-name: follow-redirects
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c19f98c</div>
+                                        <div class="message">Update(docs): bump @types/react from 18.2.61 to 18.2.66 in /docs (#2258)
+
+Bumps [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) from 18.2.61 to 18.2.66.
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+---
+updated-dependencies:
+- dependency-name: "@types/react"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#111cc2a</div>
+                                        <div class="message">Update: bump @swc/core from 1.4.1 to 1.4.8 (#2257)
+
+Bumps [@swc/core](https://github.com/swc-project/swc) from 1.4.1 to 1.4.8.
+- [Release notes](https://github.com/swc-project/swc/releases)
+- [Changelog](https://github.com/swc-project/swc/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/swc-project/swc/compare/v1.4.1...v1.4.8)
+
+---
+updated-dependencies:
+- dependency-name: "@swc/core"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df28758</div>
+                                        <div class="message">Update: bump esbuild from 0.20.0 to 0.20.2 (#2256)
+
+Bumps [esbuild](https://github.com/evanw/esbuild) from 0.20.0 to 0.20.2.
+- [Release notes](https://github.com/evanw/esbuild/releases)
+- [Changelog](https://github.com/evanw/esbuild/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/evanw/esbuild/compare/v0.20.0...v0.20.2)
+
+---
+updated-dependencies:
+- dependency-name: esbuild
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#147b8b7</div>
+                                        <div class="message">Update(docs): bump typescript from 5.3.3 to 5.4.2 in /docs (#2251)
+
+Bumps [typescript](https://github.com/Microsoft/TypeScript) from 5.3.3 to 5.4.2.
+- [Release notes](https://github.com/Microsoft/TypeScript/releases)
+- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
+- [Commits](https://github.com/Microsoft/TypeScript/compare/v5.3.3...v5.4.2)
+
+---
+updated-dependencies:
+- dependency-name: typescript
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc2bed0</div>
+                                        <div class="message">Update: bump html-entities from 2.4.0 to 2.5.2 (#2246)
+
+Bumps [html-entities](https://github.com/mdevils/html-entities) from 2.4.0 to 2.5.2.
+- [Release notes](https://github.com/mdevils/html-entities/releases)
+- [Changelog](https://github.com/mdevils/html-entities/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/mdevils/html-entities/compare/v2.4.0...v2.5.2)
+
+---
+updated-dependencies:
+- dependency-name: html-entities
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad264c4</div>
+                                        <div class="message">Update: bump mocha from 10.2.0 to 10.3.0 (#2243)
+
+Bumps [mocha](https://github.com/mochajs/mocha) from 10.2.0 to 10.3.0.
+- [Release notes](https://github.com/mochajs/mocha/releases)
+- [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/mochajs/mocha/compare/v10.2.0...v10.3.0)
+
+---
+updated-dependencies:
+- dependency-name: mocha
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">kinoko2k/kinoko2k</span>
                                     </div>
@@ -1586,26 +1943,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">microsoft/MS-DOS</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kinoko2k/worktool</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6020479</div>
-                                        <div class="message">✨ Add 2 Tools</div>
                                     </div>
                                 </div>
                             </section>
@@ -1804,7 +2141,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2024, 12:07:47 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 13:08:42 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

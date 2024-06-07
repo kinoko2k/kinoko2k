@@ -2,7 +2,7 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
-## ✨自己紹介 
+## ✨自己紹介
 ただの高校生になりたかった人。ひたすらピアノ（合唱曲全般）を弾いてます。<br>
 [**no+e**](https://note.com/kinoko1216)でDiscordやMinecraftの記事を書き続けてる人です。<br>
 開発物と言えるようなものはありませんので、どちらかというと開発物にドキュメント記述のほうができます。<br>
@@ -17,7 +17,7 @@
     - [ChatEX](https://github.com/TheJeterLP/ChatEx/pull/146)
 - ドキュメント記述
     - [Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)
-- くそ
+- 自作
     - [kinoko2k/kinoko2k.github.io](https://github.com/kinoko2k/kinoko2k.github.io)
     - [kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
 
@@ -29,10 +29,14 @@
 ・mesiokaServer (MC,Disc)<br>
 ・[KireaServer](https://minecraft-mcworld.com/40113/) (Discord)<br>
 
-## ⚙️技術
+## ⚙️技術・使用
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-2572b6.svg?logo=css3&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ===
 ![Python](https://img.shields.io/badge/Python-ffde73.svg?logo=python&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&style=for-the-badge)
+===
+![Windows](https://img.shields.io/badge/Windows-0078d6.svg?logo=windows&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-000.svg?logo=linux&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-fff.svg?logo=ubuntu&style=for-the-badge)
+<!-- https://suzukikatsuma.github.io/badge-generator/ -->
+
 ## ステータス
 ![Metrics](/github-metrics.svg)
 

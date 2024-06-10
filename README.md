@@ -20,6 +20,7 @@
 - 自作
     - [kinoko2k/kinoko2k.github.io](https://github.com/kinoko2k/kinoko2k.github.io)
     - [kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
+    - [kinoko2k/ServiceColorCode](https://kinoko2k.github.io/ServiceColorCode/)
 
 ## ✅所属鯖・グループ
 ・[KinokoNetWork](https://kinokoserver.github.io/documents/) (MC,Disc)<br>

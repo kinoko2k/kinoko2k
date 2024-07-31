@@ -30,6 +30,8 @@
 ・mesiokaServer (MC,Disc)<br>
 ・[KireaServer](https://minecraft-mcworld.com/40113/) (Discord)<br>
 
+[詳しい記録はこちらから](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
+
 # 🍨アカウント
 [![Twitter@kinoko1216](https://img.shields.io/badge/Twitter-fff.svg?logo=twitter&style=for-the-badge)](https://twitter.com/kinoko1216) [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k)
 

@@ -33,11 +33,11 @@
 [詳しい記録はこちらから](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
 # 🍨アカウント
-[![Twitter@kinoko1216](https://img.shields.io/badge/Twitter-fff.svg?logo=twitter&style=for-the-badge)](https://twitter.com/kinoko1216) [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k)
+[![Twitter@kinoko1216](https://img.shields.io/badge/Twitter-fff.svg?logo=twitter&style=for-the-badge)](https://twitter.com/kinoko1216) [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k) 
 
 <img src="https://discord.c99.nl/widget/theme-2/925245386568896564.png">
 
-・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br>
+<!-- ・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br> -->
 ・[**note.com@kinoko1216**](https://note.com/kinoko1216)<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)
@@ -52,10 +52,10 @@
 
 ## ステータス
 ![Metrics](/github-metrics.svg)
-
+<!--
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k&layout=compact&langs_count=10)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinoko2k&" alt="kinoko2k" /></p>
-
+-->
 <!-- ![Metrics](https://metrics.lecoq.io/kinoko2k?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjava%2Cjavascript%2Cmarkdown&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.featured=KinokoServer%2Fdocuments%2CJankenWeb%2CPunishment-Program%2CSentenceGenerator&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTokyo) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&show_icons=true&theme=gruvbox) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->

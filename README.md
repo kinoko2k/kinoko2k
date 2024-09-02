@@ -23,8 +23,7 @@
     - [kinoko2k/ServiceColorCode](https://kinoko2k.github.io/ServiceColorCode/)
 
 ## ✅所属鯖・グループ
-・[KinokoNetWork](https://kinokoserver.github.io/documents/) (MC,Disc)<br>
-・[kinokonoyama](https://plancke.io/hypixel/guild/name/kinokonoyama) (MC,Disc)<br>
+・[kinokonoyama](https://plancke.io/hypixel/guild/name/kinokonoyama) (MC)<br>
 ・[Minecraft鯖運営-処罰共有場-mcpl](https://twitter.com/kinoko1216/status/1783881445230141830) (Discord)<br>
 ・[ArukaNetWork](https://disboard.org/ja/server/1168232472287395880) (MC)<br>
 ・mesiokaServer (MC,Disc)<br>

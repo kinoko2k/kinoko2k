@@ -50,7 +50,7 @@
 ===
 ![Windows](https://img.shields.io/badge/Windows-0078d6.svg?logo=windows&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-000.svg?logo=linux&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-fff.svg?logo=ubuntu&style=for-the-badge)
 <!-- https://suzukikatsuma.github.io/badge-generator/ -->
--->
+
 ## ステータス
 ![Metrics](/github-metrics.svg)
 <!--

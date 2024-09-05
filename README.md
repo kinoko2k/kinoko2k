@@ -12,6 +12,7 @@
 - [no+e@kinoko1216](https://note.com/kinoko1216)
     - [Discordの新機能の「投票」が追加された！ - kinoko2k](https://note.com/kinoko1216/n/n78b37bd3b50d)
     - [[Discord]Clipをうまく利用していい動画を残そう！ - kinoko2k](https://note.com/kinoko1216/n/nb1da602f0969)
+<!--
 - 翻訳
     - [BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-20-4.63714/update?update=493428)
     - [ChatEX](https://github.com/TheJeterLP/ChatEx/pull/146)
@@ -21,7 +22,7 @@
     - [kinoko2k/kinoko2k.github.io](https://github.com/kinoko2k/kinoko2k.github.io)
     - [kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
     - [kinoko2k/ServiceColorCode](https://kinoko2k.github.io/ServiceColorCode/)
-
+-->
 ## ✅所属鯖・グループ
 ・[kinokonoyama](https://plancke.io/hypixel/guild/name/kinokonoyama) (MC)<br>
 ・[Minecraft鯖運営-処罰共有場-mcpl](https://twitter.com/kinoko1216/status/1783881445230141830) (Discord)<br>
@@ -41,6 +42,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)
 
+<!--
 ## ⚙️技術・使用
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-2572b6.svg?logo=css3&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ===
@@ -48,7 +50,7 @@
 ===
 ![Windows](https://img.shields.io/badge/Windows-0078d6.svg?logo=windows&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-000.svg?logo=linux&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-fff.svg?logo=ubuntu&style=for-the-badge)
 <!-- https://suzukikatsuma.github.io/badge-generator/ -->
-
+-->
 ## ステータス
 ![Metrics](/github-metrics.svg)
 <!--

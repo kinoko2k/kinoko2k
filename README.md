@@ -50,9 +50,11 @@
 ===
 ![Windows](https://img.shields.io/badge/Windows-0078d6.svg?logo=windows&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-000.svg?logo=linux&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-fff.svg?logo=ubuntu&style=for-the-badge)
 <!-- https://suzukikatsuma.github.io/badge-generator/ -->
-
+<!-- 
 ## ステータス
 ![Metrics](/github-metrics.svg)
+-->
+
 <!--
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k&layout=compact&langs_count=10)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinoko2k&" alt="kinoko2k" /></p>

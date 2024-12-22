@@ -35,8 +35,6 @@
 # 🍨アカウント
 [![Twitter@kinoko1216](https://img.shields.io/badge/Twitter-fff.svg?logo=twitter&style=for-the-badge)](https://twitter.com/kinoko1216) [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k) 
 
-<img src="https://discord.c99.nl/widget/theme-2/925245386568896564.png">
-
 <!-- ・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br> -->
 ・[**note.com@kinoko1216**](https://note.com/kinoko1216)<br>
 

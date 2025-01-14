@@ -36,7 +36,8 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 | stats.fm | [@omuraisu](https://web.stats.fm/omuraisu) |
 | BookMeter | [@panda](https://bookmeter.com/users/1402914) |
 <br>
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プロフカード <a href="https://t.co/rzthNPc9Mq">pic.twitter.com/rzthNPc9Mq</a></p>&mdash; きのこ (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1819635409107951809?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プロフカード <a href="https://t.co/rzthNPc9Mq">pic.twitter.com/rzthNPc9Mq</a></p>&mdash; きのこ (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1819635409107951809?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> 
+<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 <br>
 
 [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k)
@@ -46,7 +47,6 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 <!-- ・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br>
 <li><a href="https://note.com/kinoko1216">note.com@kinoko1216<a><br>
 -->
-・[**note.com@kinoko1216**](https://note.com/kinoko1216)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)
 

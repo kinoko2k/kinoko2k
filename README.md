@@ -7,21 +7,12 @@
 [**no+e**](https://note.com/kinoko1216)でDiscordやMinecraftの記事を書き続けてる人です。<br>
 開発物と言えるようなものはありませんので、どちらかというと開発物にドキュメント記述のほうができます。<br>
 Markdownによるドキュメント作成、Wikiの作成なのが趣味です。<br>
-書けるものと言えば、Python(30%)と日本語です。<br>
+書けるものと言えば、Python(50%)、Java(30%)と日本語です。<br>
 
-## 📝主な記事
-- [no+e@kinoko1216](https://note.com/kinoko1216)
-    - [Discordの新機能の「投票」が追加された！ - kinoko2k](https://note.com/kinoko1216/n/n78b37bd3b50d)
-    - [[Discord]Clipをうまく利用していい動画を残そう！ - kinoko2k](https://note.com/kinoko1216/n/nb1da602f0969)
-- 翻訳
-    - [BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-20-4.63714/update?update=493428)
-    - [ChatEX](https://github.com/TheJeterLP/ChatEx/pull/146)
-- ドキュメント記述
-    - [Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)
 -->
 ## ✅所属グループ
-・[Minecraft鯖運営-処罰共有場-mcpl](https://twitter.com/kinoko1216/status/1783881445230141830) (Discord)<br>
-・[ArukaNetWork](https://disboard.org/ja/server/1168232472287395880) (MC)<br>
+・[KinokoNetWork - KinokoServer2]() (MC)<br>
+・[ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MC)<br>
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
@@ -51,6 +42,15 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)
 
 <!--
+## 📝主な記事
+- [no+e@kinoko1216](https://note.com/kinoko1216)
+    - [Discordの新機能の「投票」が追加された！ - kinoko2k](https://note.com/kinoko1216/n/n78b37bd3b50d)
+    - [[Discord]Clipをうまく利用していい動画を残そう！ - kinoko2k](https://note.com/kinoko1216/n/nb1da602f0969)
+- 翻訳
+    - [BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-20-4.63714/update?update=493428)
+    - [ChatEX](https://github.com/TheJeterLP/ChatEx/pull/146)
+- ドキュメント記述
+    - [Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)
 ## ⚙️技術・使用
 <!-- https://suzukikatsuma.github.io/badge-generator/ -->
 <!--

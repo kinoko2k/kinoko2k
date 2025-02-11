@@ -10,8 +10,8 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 書けるものと言えば、Python(50%)、Java(30%)と日本語です。<br>
 
 ## ✅所属グループ
-・[KinokoNetWork - KinokoServer2]() (MC)<br>
-・[ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MC)<br>
+・[KinokoNetWork - KinokoServer2]() (MinecraftServer - Owner)<br>
+・[ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)<br>
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 

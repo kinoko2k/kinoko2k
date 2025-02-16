@@ -26,6 +26,9 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 | note | [@kinoko1216](https://note.com/kinoko1216) |
 | stats.fm | [@omuraisu](https://web.stats.fm/omuraisu) |
 | BookMeter | [@panda](https://bookmeter.com/users/1402914) |
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
+
 <br>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プロフカード <a href="https://t.co/rzthNPc9Mq">pic.twitter.com/rzthNPc9Mq</a></p>&mdash; きのこ (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1819635409107951809?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> 
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

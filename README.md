@@ -30,6 +30,8 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kinoko2k&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プロフカード <a href="https://t.co/rzthNPc9Mq">pic.twitter.com/rzthNPc9Mq</a></p>&mdash; きのこ (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1819635409107951809?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> 
 <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

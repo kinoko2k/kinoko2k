@@ -44,6 +44,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 
 <!-- ・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br>
 <li><a href="https://note.com/kinoko1216">note.com@kinoko1216<a><br>
+Hello World
 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)

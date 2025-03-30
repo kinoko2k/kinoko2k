@@ -16,6 +16,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
+## 📝note記事 - 新しい順
 <!-- BLOG-POST-LIST:START -->
 - [受験→合格→趣味→大学準備などやっ...](https://note.com/kinoko1216/n/n551b5c8f26ab)
 - [名古屋市科学館です。大きいプラネタリウムは教科書に載ってるはず…](https://note.com/kinoko1216/n/n2195b595d052)

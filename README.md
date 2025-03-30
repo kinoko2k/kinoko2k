@@ -16,6 +16,9 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 🍨アカウント
 | name | id |
 | --- | --- |
@@ -32,6 +35,12 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoko2k&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake.svg">
+</picture>
 
 <br>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プロフカード <a href="https://t.co/rzthNPc9Mq">pic.twitter.com/rzthNPc9Mq</a></p>&mdash; きのこ (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1819635409107951809?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> 

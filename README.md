@@ -17,6 +17,11 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
 <!-- BLOG-POST-LIST:START -->
+- [受験→合格→趣味→大学準備などやっ...](https://note.com/kinoko1216/n/n551b5c8f26ab)
+- [名古屋市科学館です。大きいプラネタリウムは教科書に載ってるはず…](https://note.com/kinoko1216/n/n2195b595d052)
+- [[Discord]ブロックとは違う無視機能が追加！](https://note.com/kinoko1216/n/n9b9f1dc0fd8b)
+- [難しいけど、かっこいいリズムゲーム「Adofai」をやりませんか？](https://note.com/kinoko1216/n/na9c112614328)
+- [急に出てきた、スマホ版Discor...](https://note.com/kinoko1216/n/neb8ccb64cde8)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨アカウント

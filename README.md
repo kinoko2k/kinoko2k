@@ -11,7 +11,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 規模は小規模でしたが、マイクラサーバー『きのこサーバー』を運営してました。<br>
 
 ## ✅所属グループ
-・[KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)<br>
+・[KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner) - 4月1日~活動休止<br>
 ・[ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)<br>
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)

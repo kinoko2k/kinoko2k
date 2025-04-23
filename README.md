@@ -50,7 +50,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 
 <br>
 
-[![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k)
+<!-- [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k) -->
 
 <br>
 

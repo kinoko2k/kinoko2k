@@ -49,9 +49,6 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 </picture>
 
 <br>
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プロフカード <a href="https://t.co/rzthNPc9Mq">pic.twitter.com/rzthNPc9Mq</a></p>&mdash; きのこ (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1819635409107951809?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> 
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-<br>
 
 [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k)
 

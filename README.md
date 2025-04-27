@@ -18,11 +18,11 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 
 ## 📝note記事 - 新しい順
 <!-- BLOG-POST-LIST:START -->
+- [あなたも付けない？ギルドタグ！](https://note.com/kinoko1216/n/n717ce543c49f)
 - [Discordのゲームオーバーレイが格段に進化して登場！](https://note.com/kinoko1216/n/nfe02f8a9988c)
 - [名古屋城と桜（多分）](https://note.com/kinoko1216/n/n5be83b5bfa8f)
 - [Discordのイースターイベント『The Last Meadow』についてまとめたもの](https://note.com/kinoko1216/n/n5f8a437d4e1d)
 - [受験→合格→趣味→大学準備などやっ...](https://note.com/kinoko1216/n/n551b5c8f26ab)
-- [名古屋市科学館です。大きいプラネタリウムは教科書に載ってるはず…](https://note.com/kinoko1216/n/n2195b595d052)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨アカウント

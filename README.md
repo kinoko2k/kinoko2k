@@ -3,7 +3,7 @@
 </p>
 
 ## ✨自己紹介
-大学生になりました。<br>
+大学生になりました。大学生活に慣れるのが忙しいです。<br>
 [**no+e**](https://note.com/kinoko1216)でDiscordやMinecraftの記事を書き続けてる人です。<br>
 開発物と言えるようなものはありませんので、どちらかというと開発物にドキュメント記述やプログラムのバグ発見のほうができます。<br>
 Markdownによるドキュメント作成、Wikiの作成なのが趣味です。<br>
@@ -11,7 +11,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 規模は小規模でしたが、マイクラサーバー『きのこサーバー1』を運営してました。<br>
 
 ## ✅所属グループ
-・[KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner) - 4月1日~4月13日まで活動休止<br>
+・[KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)<br>
 ・[ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)<br>
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)

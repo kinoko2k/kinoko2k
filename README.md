@@ -7,8 +7,6 @@
 [**no+e**](https://note.com/kinoko1216)でDiscordやMinecraftの記事を書き続けてる人です。<br>
 開発物と言えるようなものはありませんので、どちらかというと開発物にドキュメント記述やプログラムのバグ発見のほうができます。<br>
 Markdownによるドキュメント作成、Wikiの作成なのが趣味です。<br>
-書けるものと言えば、Python、Java、日本語です。<br>
-規模は小規模でしたが、マイクラサーバー『きのこサーバー1』を運営してました。<br>
 
 ## ✅所属グループ
 ・[KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)<br>

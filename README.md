@@ -35,7 +35,6 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 | BookMeter | [@panda](https://bookmeter.com/users/1402914) |
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-![](https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/profile-summary-card-output/calm/4-productive-time.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoko2k&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)

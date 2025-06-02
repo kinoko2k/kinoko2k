@@ -17,7 +17,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 ## 📝note記事 - 新しい順
 <!-- BLOG-POST-LIST:START -->
 - [[備忘録] Minecraft java 1.18でクラッシュする問題を修復する](https://note.com/kinoko1216/n/ndac928abaa6a)
-- [あなたも付けない？ギルドタグ！](https://note.com/kinoko1216/n/n717ce543c49f)
+- [あなたも付けない？サーバータグ！](https://note.com/kinoko1216/n/n717ce543c49f)
 - [Discordのゲームオーバーレイが格段に進化して登場！](https://note.com/kinoko1216/n/nfe02f8a9988c)
 - [名古屋城と桜（多分）](https://note.com/kinoko1216/n/n5be83b5bfa8f)
 - [Discordのイースターイベント『The Last Meadow』についてまとめたもの](https://note.com/kinoko1216/n/n5f8a437d4e1d)

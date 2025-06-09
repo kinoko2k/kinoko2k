@@ -62,8 +62,6 @@
 | stats.fm | [@omuraisu](https://web.stats.fm/omuraisu) |
 | BookMeter | [@panda](https://bookmeter.com/users/1402914) |
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2A6c1h0upbk6U10JpshwH2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake.svg">

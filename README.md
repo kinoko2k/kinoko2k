@@ -2,19 +2,47 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
-## ✨自己紹介
-大学生になりました。大学生活に慣れるのが忙しいです。<br>
-[**no+e**](https://note.com/kinoko1216)でDiscordやMinecraftの記事を書き続けてる人です。<br>
-開発物と言えるようなものはありませんので、どちらかというと開発物にドキュメント記述やプログラムのバグ発見のほうができます。<br>
-Markdownによるドキュメント作成、Wikiの作成なのが趣味です。<br>
+## ✨Summary
+- Name: Kinoko_2K
+- Birthday: November 13th, 2006
+- Hobby: pc, piano, Writer
+- Website: https://kinoko2k.github.io/
+- Portalsite: https://bento.me/kinoko1216/
 
-## ✅所属グループ
-・[KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)<br>
-・[ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)<br>
+## ✅Works / Groups
+### Works
+- [GitHub｜kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
+- [note/Discordの新機能の「投票」が追加された！](https://note.com/kinoko1216/n/n78b37bd3b50d)
+- [note/[Discord]VCなしでも友達とアクティビティをプレイしよう！](https://note.com/kinoko1216/n/nbf6ba5ef97cc)
+- [note/Minecraftの有名なサーバーソフトの違い](https://note.com/kinoko1216/n/nc627dbd2bc7a)
+
+### Groups
+- [KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)
+- [ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
-## 📝note記事 - 新しい順
+## 🔨Skills
+### Programming
+- Python (50%)
+- JavaScript (68%)
+- Java (30%)
+- Cobol (30%)
+
+### Management
+- MinecraftServer (80%)
+    - PluginManage (90%)
+    - ServerSetup (80%)
+    - Skript (10%)
+    - Plugin (60%)
+- Community
+  - DiscordManage (100%)
+  - DiscordBot (80%)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
+
+## 📝note summary
 <!-- BLOG-POST-LIST:START -->
 - [[備忘録] Minecraft java 1.18でクラッシュする問題を修復する](https://note.com/kinoko1216/n/ndac928abaa6a)
 - [あなたも付けない？サーバータグ！](https://note.com/kinoko1216/n/n717ce543c49f)
@@ -23,7 +51,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 - [Discordのイースターイベント『The Last Meadow』についてまとめたもの](https://note.com/kinoko1216/n/n5f8a437d4e1d)
 <!-- BLOG-POST-LIST:END -->
 
-# 🍨アカウント
+# 🍨Accounts
 | name | id |
 | --- | --- |
 | X | [@kinoko1216](https://twitter.com/kinoko1216/) |
@@ -34,10 +62,7 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 | stats.fm | [@omuraisu](https://web.stats.fm/omuraisu) |
 | BookMeter | [@panda](https://bookmeter.com/users/1402914) |
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kinoko2k&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2A6c1h0upbk6U10JpshwH2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake-dark.svg">
@@ -47,38 +72,8 @@ Markdownによるドキュメント作成、Wikiの作成なのが趣味です�
 
 <br>
 
-<!-- [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kinoko2k) -->
-
-<br>
-
-<!-- ・MinecraftId:[`Kinoko_2K`](https://ja.namemc.com/profile/Kinoko_2K)<br>
-<li><a href="https://note.com/kinoko1216">note.com@kinoko1216<a><br>
-Hello World
--->
-
 ![Profile views](https://komarev.com/ghpvc/?username=kinoko2k)
 
-<!--
-## 📝主な記事
-- [no+e@kinoko1216](https://note.com/kinoko1216)
-    - [Discordの新機能の「投票」が追加された！ - kinoko2k](https://note.com/kinoko1216/n/n78b37bd3b50d)
-    - [[Discord]Clipをうまく利用していい動画を残そう！ - kinoko2k](https://note.com/kinoko1216/n/nb1da602f0969)
-- 翻訳
-    - [BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-20-4.63714/update?update=493428)
-    - [ChatEX](https://github.com/TheJeterLP/ChatEx/pull/146)
-- ドキュメント記述
-    - [Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)
-## ⚙️技術・使用
-<!-- https://suzukikatsuma.github.io/badge-generator/ -->
-<!--
-## ステータス
-![Metrics](/github-metrics.svg)
--->
-
-<!--
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoko2k&layout=compact&langs_count=10)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinoko2k&" alt="kinoko2k" /></p>
--->
 <!-- ![Metrics](https://metrics.lecoq.io/kinoko2k?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss%2Cjava%2Cjavascript%2Cmarkdown&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.featured=KinokoServer%2Fdocuments%2CJankenWeb%2CPunishment-Program%2CSentenceGenerator&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTokyo) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&show_icons=true&theme=gruvbox) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->

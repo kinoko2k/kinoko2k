@@ -19,6 +19,7 @@
 ### Groups
 - [KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)
 - [ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)
+- [thinking-org](https://www.thinking-grp.org/) (CreatorGroup)
 
 [etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 

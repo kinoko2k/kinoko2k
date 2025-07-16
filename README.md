@@ -45,11 +45,11 @@
 
 ## 📝note summary
 <!-- BLOG-POST-LIST:START -->
+- [Discordの仮想通貨なるものOrbsが出たぞ！](https://note.com/kinoko1216/n/nc180692cc799)
+- [Discord Orbsは執筆中です。](https://note.com/kinoko1216/n/ne1d33f1df619)
 - [[備忘録] Minecraft java 1.18でクラッシュする問題を修復する](https://note.com/kinoko1216/n/ndac928abaa6a)
 - [あなたも付けない？サーバータグ！](https://note.com/kinoko1216/n/n717ce543c49f)
 - [Discordのゲームオーバーレイが格段に進化して登場！](https://note.com/kinoko1216/n/nfe02f8a9988c)
-- [名古屋城と桜（多分）](https://note.com/kinoko1216/n/n5be83b5bfa8f)
-- [Discordのイースターイベント『The Last Meadow』についてまとめたもの](https://note.com/kinoko1216/n/n5f8a437d4e1d)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts

@@ -45,11 +45,11 @@
 
 ## 📝note summary
 <!-- BLOG-POST-LIST:START -->
+- [自分のDiscord関連記事一覧](https://note.com/kinoko1216/n/na39dcaf4a2b1)
+- [[Discord]コミュニティサーバーとは？](https://note.com/kinoko1216/n/n7dda21ea808c)
 - [Discordの仮想通貨なるものOrbsが出たぞ！](https://note.com/kinoko1216/n/nc180692cc799)
 - [Discord Orbsは執筆中です。](https://note.com/kinoko1216/n/ne1d33f1df619)
 - [[備忘録] Minecraft java 1.18でクラッシュする問題を修復する](https://note.com/kinoko1216/n/ndac928abaa6a)
-- [あなたも付けない？サーバータグ！](https://note.com/kinoko1216/n/n717ce543c49f)
-- [Discordのゲームオーバーレイが格段に進化して登場！](https://note.com/kinoko1216/n/nfe02f8a9988c)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts

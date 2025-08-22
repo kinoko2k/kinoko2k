@@ -45,11 +45,11 @@
 
 ## 📝note summary
 <!-- BLOG-POST-LIST:START -->
+- [YouTubeで見てる動画をDiscordのステータスに表示しよう！](https://note.com/kinoko1216/n/nee17aeaef23e)
 - [Discordアカウントの作り方](https://note.com/kinoko1216/n/na1406d14b90d)
 - [自分のDiscord関連記事一覧](https://note.com/kinoko1216/n/na39dcaf4a2b1)
 - [[Discord]コミュニティサーバーとは？](https://note.com/kinoko1216/n/n7dda21ea808c)
 - [Discordの仮想通貨なるものOrbsが出たぞ！](https://note.com/kinoko1216/n/nc180692cc799)
-- [Discord Orbsは執筆中です。](https://note.com/kinoko1216/n/ne1d33f1df619)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts

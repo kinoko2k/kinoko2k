@@ -25,10 +25,7 @@
 
 ## 🔨Skills
 ### Programming
-- Python (50%)
-- JavaScript (68%)
-- Java (30%)
-- Cobol (30%)
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,git,markdown" />
 
 ### Management
 - MinecraftServer (80%)

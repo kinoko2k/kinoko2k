@@ -42,11 +42,11 @@
 
 ## 📝note summary
 <!-- BLOG-POST-LIST:START -->
+- [Discord鯖でゲームパーティの招待ができるBotコード.js](https://note.com/kinoko1216/n/n157c6cc5a141)
 - [DiscordでVC入室時の効果音を変更する方法](https://note.com/kinoko1216/n/n31f460b536ee)
 - [YouTubeで見てる動画をDiscordのステータスに表示しよう！](https://note.com/kinoko1216/n/nee17aeaef23e)
 - [Discordアカウントの作り方](https://note.com/kinoko1216/n/na1406d14b90d)
 - [自分のDiscord関連記事一覧](https://note.com/kinoko1216/n/na39dcaf4a2b1)
-- [[Discord]コミュニティサーバーとは？](https://note.com/kinoko1216/n/n7dda21ea808c)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts

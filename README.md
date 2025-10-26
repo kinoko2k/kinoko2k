@@ -42,11 +42,11 @@
 
 ## 📝note summary
 <!-- BLOG-POST-LIST:START -->
+- [Discordのコードブロックの基本と応用](https://note.com/kinoko1216/n/nde90f22365da)
 - [[Discord]ウィジェットを使って、自分のおすすめゲームを紹介しよう！](https://note.com/kinoko1216/n/na17ed82ca142)
 - [Nitroユーザに新たなエフェクトが配られる！](https://note.com/kinoko1216/n/n7d313bb51e90)
 - [Discord鯖でゲームパーティの招待ができるBotコード.js](https://note.com/kinoko1216/n/n157c6cc5a141)
 - [DiscordでVC入室時の効果音を変更する方法](https://note.com/kinoko1216/n/n31f460b536ee)
-- [YouTubeで見てる動画をDiscordのステータスに表示しよう！](https://note.com/kinoko1216/n/nee17aeaef23e)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts

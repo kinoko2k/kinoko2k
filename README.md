@@ -42,11 +42,11 @@
 
 ## 📝note summary
 <!-- BLOG-POST-LIST:START -->
+- [デジタルメモ「ポメラ」を買いました。&lpar;DM250&rpar;](https://note.com/kinoko1216/n/n7b78f0b21c48)
 - [DiscordでCloudflareが提供されるかも...?](https://note.com/kinoko1216/n/n349d80420cf4)
 - [Discordのコードブロックの基本と応用](https://note.com/kinoko1216/n/nde90f22365da)
 - [[Discord]ウィジェットを使って、自分のおすすめゲームを紹介しよう！](https://note.com/kinoko1216/n/na17ed82ca142)
 - [Nitroユーザに新たなエフェクトが配られる！](https://note.com/kinoko1216/n/n7d313bb51e90)
-- [Discord鯖でゲームパーティの招待ができるBotコード.js](https://note.com/kinoko1216/n/n157c6cc5a141)
 <!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts

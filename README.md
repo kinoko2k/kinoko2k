@@ -2,26 +2,12 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
-## ✨Summary
-- Name: Kinoko_2K
-- Birthday: November 13th, 2006
-- Hobby: pc, piano, Writer
-- Website: https://kinoko2k.github.io/
-- Portalsite: https://bento.me/kinoko1216/
-
-## ✅Works / Groups
-### Works
+# ✨Kinoko_2K
+## ✅Works
 - [GitHub｜kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
 - [note/Discordの新機能の「投票」が追加された！](https://note.com/kinoko1216/n/n78b37bd3b50d)
 - [note/[Discord]VCなしでも友達とアクティビティをプレイしよう！](https://note.com/kinoko1216/n/nbf6ba5ef97cc)
 - [note/Minecraftの有名なサーバーソフトの違い](https://note.com/kinoko1216/n/nc627dbd2bc7a)
-
-### Groups
-- [KinokoNetWork - KinokoServer2](https://seesaawiki.jp/kinokoserver2/) (MinecraftServer - Owner)
-- [ArukaNetwork](https://disboard.org/ja/server/1168232472287395880) (MinecraftServer - Moderator)
-- [thinking-org](https://www.thinking-grp.org/) (CreatorGroup)
-
-[etc...](<https://github.com/kinoko2k/kinoko2k/blob/main/History.md>)
 
 ## 🔨Skills
 ### Programming
@@ -55,10 +41,7 @@
 | X | [@kinoko1216](https://twitter.com/kinoko1216/) |
 | Discord | [@kinoko1216](https://discord.com/users/925245386568896564) |
 | GitHub | [@kinoko2k](https://github.com/kinoko2k) |
-| MCID | [Kinoko_2K](https://ja.namemc.com/profile/Kinoko_2K.1) |
 | note | [@kinoko1216](https://note.com/kinoko1216) |
-| stats.fm | [@omuraisu](https://web.stats.fm/omuraisu) |
-| BookMeter | [@panda](https://bookmeter.com/users/1402914) |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinoko2k/kinoko2k/main/img/snake-dark.svg">

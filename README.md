@@ -2,7 +2,6 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
-# ✨Kinoko_2K
 ## ✅Works
 - [GitHub｜kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
 - [note/Discordの新機能の「投票」が追加された！](https://note.com/kinoko1216/n/n78b37bd3b50d)

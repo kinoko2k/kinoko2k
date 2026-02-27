@@ -2,37 +2,16 @@
  <img src="kinoko-header2.jpeg" width=800>
 </p>
 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
+
+
 ## ✅Works
 - [GitHub｜kinoko2k/fxtwitterChangeBot](https://github.com/kinoko2k/fxtwitterChangeBot)
 - [note/Discordの新機能の「投票」が追加された！](https://note.com/kinoko1216/n/n78b37bd3b50d)
 - [note/[Discord]VCなしでも友達とアクティビティをプレイしよう！](https://note.com/kinoko1216/n/nbf6ba5ef97cc)
 - [note/Minecraftの有名なサーバーソフトの違い](https://note.com/kinoko1216/n/nc627dbd2bc7a)
-
-## 🔨Skills
-### Programming
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,git,markdown" />
-
-### Management
-- MinecraftServer (80%)
-    - PluginManage (90%)
-    - ServerSetup (80%)
-    - Skript (10%)
-    - Plugin (60%)
-- Community
-  - DiscordManage (100%)
-  - DiscordBot (80%)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoko2k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoko2k&theme=gruvbox)
-
-## 📝note summary
-<!-- BLOG-POST-LIST:START -->
-- [デジタルメモ「ポメラ」を買いました。&lpar;DM250&rpar;](https://note.com/kinoko1216/n/n7b78f0b21c48)
-- [DiscordでCloudflareが提供されるかも...?](https://note.com/kinoko1216/n/n349d80420cf4)
-- [Discordのコードブロックの基本と応用](https://note.com/kinoko1216/n/nde90f22365da)
-- [[Discord]ウィジェットを使って、自分のおすすめゲームを紹介しよう！](https://note.com/kinoko1216/n/na17ed82ca142)
-- [Nitroユーザに新たなエフェクトが配られる！](https://note.com/kinoko1216/n/n7d313bb51e90)
-<!-- BLOG-POST-LIST:END -->
 
 # 🍨Accounts
 | name | id |

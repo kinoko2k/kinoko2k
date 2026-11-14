@@ -9,7 +9,7 @@
 
 ## Introduction
 - **Name**: Kinoko_2K (@kinoko1216)
-- **Age**: 19 y/o
+- **Age**: 20 y/o
 - **Location**: Aichi, Japan
 - **Hobby**: Piano / Game / Anime
 - **Motto**: 「技術を使って、もっと豊かに」
